@@ -1,0 +1,38 @@
+@media screen  and (max-width: 900px){
+    /*bloco1*/
+    .container{
+        margin:90px 0px 0px 0px;
+        padding: 90px;
+        display:flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .img{
+        margin-top: 50px;
+    }
+    /*bloco1*/
+    .informacao{
+        width: 400px;
+        padding: 0px 40px;
+    }
+    .contato{
+        padding: 0px 40px;
+        width: 400px;
+    }
+    /*bloco3*/
+    .skills-s{
+        padding:  0px 40px;
+        width: 280px;
+    }
+    .skills-h{
+        padding:  0px 40px;
+        width: 280px;
+    }
+    /*bloco4*/
+    .experiencia{
+       padding: 0px 40px
+    }
+    .complementares{
+        padding: 0px 40px
+    }
+}
