@@ -1,8 +1,30 @@
 @media screen  and (max-width: 900px){
     /*bloco1*/
+    h1{
+        font-size: 2rem;
+    }
+    p{
+        font-size: 1.2rem;
+        padding: 0px;
+        text-align: justify;
+    }
+    nav > a {
+        font-family: var(--font-destaque);
+        font-size: 0.8rem;
+        color:#fff;
+        padding: 0px 8px;
+        text-decoration: none;
+        transition-duration: 0.8s;
+    }
+    nav > a:hover{
+        background-color:rgba(255, 255, 255, 0.861);
+        padding: 8px;
+        border-radius: 10px;
+        color:#BFBAE6;
+    }
     .container{
         margin:90px 0px 0px 0px;
-        padding: 90px;
+        padding: 5px;
         display:flex;
         align-items: center;
         flex-direction: column;
@@ -12,27 +34,23 @@
     }
     /*bloco1*/
     .informacao{
-        width: 400px;
-        padding: 0px 40px;
+        padding: 0px 2px;
     }
     .contato{
-        padding: 0px 40px;
-        width: 400px;
+        padding: 0px 2px;
     }
     /*bloco3*/
     .skills-s{
-        padding:  0px 40px;
-        width: 280px;
+        padding:  0px 2px;
     }
     .skills-h{
-        padding:  0px 40px;
-        width: 280px;
+        padding:  0px 2px;
     }
     /*bloco4*/
     .experiencia{
-       padding: 0px 40px
+       padding: 0px 2px;
     }
     .complementares{
-        padding: 0px 40px
+        padding: 0px 2px;
     }
 }
