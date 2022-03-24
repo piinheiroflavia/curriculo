@@ -33,6 +33,9 @@
         margin-top: 50px;
     }
     /*bloco1*/
+    .bloco2 {
+        margin: 0px 2px;
+    }
     .informacao{
         padding: 0px 2px;
     }
@@ -40,6 +43,9 @@
         padding: 0px 2px;
     }
     /*bloco3*/
+    .bloco3 {
+        margin: 0px 2px;
+    }
     .skills-s{
         padding:  0px 2px;
     }
@@ -47,6 +53,9 @@
         padding:  0px 2px;
     }
     /*bloco4*/
+    .bloco4 {
+        margin: 0px 2px;
+    }
     .experiencia{
        padding: 0px 2px;
     }
